@@ -4,8 +4,7 @@ An reference stack for iot applications
 Started from https://spinspire.com/article/combining-jpa-and-jax-rs-create-restful-service
 
 
-To Build :
-Run 
+To Build (You need maven installed):
 
 mvn clean install
 
