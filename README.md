@@ -1,7 +1,7 @@
 # iotstack
 An reference stack for iot applications
 
-Started from https://spinspire.com/article/combining-jpa-and-jax-rs-create-restful-service
+INSPIRED BY THE SEED @  https://spinspire.com/article/combining-jpa-and-jax-rs-create-restful-service
 
 
 To Build (You need maven installed):
